@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Publications
-
 ## Journal Articles
 
 - **Kedia, Vatsal** and Chakraborty, Debraj. "Randomised subspace system identification: complexities and error bounds." *International Journal of Control*, Taylor & Francis, 2025, pp. 1–12.
