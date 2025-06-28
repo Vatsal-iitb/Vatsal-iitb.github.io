@@ -23,7 +23,7 @@ author_profile: true
 
 -  Prasad, G. M., **Kedia, V.**, & Rao, A. S. "Multi-model predictive control (MMPC) for non-linear systems with time delay: an experimental investigation." In: *2020 First IEEE International Conference on Measurement, Instrumentation, Control and Automation (ICMICA)*, IEEE, June 2020, pp. 1–5.
 
--  - **Kedia, Vatsal**, Ulaganathan Nallasivam, and Seshagiri Rao Ambati. "Disturbance modelling based benefit estimation from advanced process control: Case study on delayed coker unit." In: *2019 Fifth Indian Control Conference (ICC)*, IEEE, 2019.
+- **Kedia, Vatsal**, Ulaganathan Nallasivam, and Seshagiri Rao Ambati. "Disturbance modelling based benefit estimation from advanced process control: Case study on delayed coker unit." In: *2019 Fifth Indian Control Conference (ICC)*, IEEE, 2019.
 
 -  Hanif, Omar, and **Vatsal Kedia**. "Evolution of proportional integral derivative controller." In: *2018 International Conference on Recent Innovations in Electrical, Electronics & Communication Engineering (ICRIEECE)*, IEEE, 2018.
 
