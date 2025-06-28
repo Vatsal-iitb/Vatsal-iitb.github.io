@@ -21,6 +21,14 @@ author_profile: true
 
 - **Kedia, Vatsal**, George, Sneha Susan, and Chakraborty, Debraj. "Learning from similar systems and online data-driven LQR using iterative randomized data compression." In: *2024 European Control Conference (ECC)*, IEEE, 2024, pp. 98–103.
 
+-  Prasad, G. M., **Kedia, V.**, & Rao, A. S. "Multi-model predictive control (MMPC) for non-linear systems with time delay: an experimental investigation." In: *2020 First IEEE International Conference on Measurement, Instrumentation, Control and Automation (ICMICA)*, IEEE, June 2020, pp. 1–5.
+
+-  - **Kedia, Vatsal**, Ulaganathan Nallasivam, and Seshagiri Rao Ambati. "Disturbance modelling based benefit estimation from advanced process control: Case study on delayed coker unit." In: *2019 Fifth Indian Control Conference (ICC)*, IEEE, 2019.
+
+-  Hanif, Omar, and **Vatsal Kedia**. "Evolution of proportional integral derivative controller." In: *2018 International Conference on Recent Innovations in Electrical, Electronics & Communication Engineering (ICRIEECE)*, IEEE, 2018.
+
+
+
 ---
 
 > For a full list, please see my [Google Scholar profile](https://scholar.google.com/citations?user=1oUK_RMAAAAJ&hl=en&oi=ao).
