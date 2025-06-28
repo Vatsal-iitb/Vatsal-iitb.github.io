@@ -1,0 +1,5 @@
+title: Vatsal's Personal Website
+description: Welcome to my personal site!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vatsal-iitb.github.io" # your GitHub Pages URL
+theme: minima
