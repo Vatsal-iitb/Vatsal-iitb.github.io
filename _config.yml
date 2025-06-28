@@ -5,6 +5,7 @@ url: "https://vatsal-iitb.github.io"
 remote_theme: "mmistakes/minimal-mistakes@4.26.1"
 plugins:
   - jekyll-include-cache
+  - jekyll-scholar
 
 minimal_mistakes_skin: "default"
 locale: "en-US"
@@ -36,3 +37,12 @@ navigation:
       url: /cv/
     - title: "Contact"
       url: /contact/
+
+scholar:
+  style: apa
+  locale: en
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: bib
+  sort_by: year,month
+  order: descending
