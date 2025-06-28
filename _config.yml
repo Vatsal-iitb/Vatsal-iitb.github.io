@@ -1,5 +1,11 @@
-title: Vatsal's Personal Website
-description: Welcome to my personal site!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://vatsal-iitb.github.io" # your GitHub Pages URL
-theme: minima
+title: Vatsal's Research Homepage
+description: Control and  Optimization Researcher
+baseurl: "" # leave blank for user/organization site
+url: "https://vatsal-iitb.github.io"
+remote_theme: "mmistakes/minimal-mistakes@4.26.1"
+plugins:
+  - jekyll-include-cache
+
+# Optional, but recommended:
+minimal_mistakes_skin: "default" # or "air", "aqua", "contrast", "dark", etc.
+locale: "en-US"
