@@ -4,9 +4,6 @@ permalink: /contact/
 layout: single
 author_profile: true
 ---
-
-## Contact Information
-
 - **Email:** vatsalkedia56@gmail.com  
 - **LinkedIn:** [Vatsal Kedia](https://www.linkedin.com/in/vatsal-kedia-iitbombay/)  
 - **Google Scholar:** [Vatsal Kedia](https://scholar.google.com/citations?user=1oUK_RMAAAAJ&hl=en&oi=ao)  
